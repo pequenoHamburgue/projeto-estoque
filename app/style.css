@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #form-container {
+    margin-bottom: 20px;
+  }
+  
+  #form-container input, #form-container button {
+    margin: 5px;
+  }
+  
+  #stock-list {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  #stock-list h2 {
+    margin-bottom: 5px;
+  }
+  
+  #item-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
